@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Marpa/Desktop/GameJam/Repo/life2Dimension/Life_in_2_dimension/Content/Blueprints/Character/BP_RealCharacter.uasset",
+				"C:/Users/Marpa/Desktop/GameJam/Repo/life2Dimension/Life_in_2_dimension/Content/Maps/GameWorld.umap",
+				"C:/Users/Marpa/Desktop/GameJam/Repo/life2Dimension/Life_in_2_dimension/Content/Maps/House.umap",
+				"C:/Users/Marpa/Desktop/GameJam/Repo/life2Dimension/Life_in_2_dimension/Content/Blueprints/UI/UI_RealLifeOverlay.uasset",
 				"D:/Users/jeanv/Unreal Projects/Life_in_2_dimension/Content/StarterContent/Audio/Collapse01.uasset",
 				"D:/Users/jeanv/Unreal Projects/Life_in_2_dimension/Content/Maps/House.umap",
 				"D:/Users/jeanv/Unreal Projects/Life_in_2_dimension/Content/Blueprints/Character/BP_RealCharacter.uasset",
