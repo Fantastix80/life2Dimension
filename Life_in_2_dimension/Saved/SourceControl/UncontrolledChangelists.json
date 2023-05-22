@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/jeanv/Unreal Projects/Life_in_2_dimension/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/Users/jeanv/Unreal Projects/Life_in_2_dimension/Content/Maps/House.umap",
+				"D:/Users/jeanv/Unreal Projects/Life_in_2_dimension/Content/Blueprints/Character/BP_RealCharacter.uasset",
+				"D:/Users/jeanv/Unreal Projects/Life_in_2_dimension/Content/Blueprints/Character/BP_RealCharacter_Controller.uasset",
+				"D:/Users/jeanv/Unreal Projects/Life_in_2_dimension/Content/Maps/GameWorld.umap",
+				"D:/Users/jeanv/Unreal Projects/Life_in_2_dimension/Content/Blueprints/Character/BP_GameCharacter.uasset",
+				"D:/Users/jeanv/Unreal Projects/Life_in_2_dimension/Content/Blueprints/Character/BP_GameMode.uasset",
+				"D:/Users/jeanv/Unreal Projects/Life_in_2_dimension/Content/Blueprints/UI/UI_RealLifeOverlay.uasset"
+			]
+		}
+	]
+}
